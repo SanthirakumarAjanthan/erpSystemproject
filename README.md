@@ -34,4 +34,4 @@ Invoice Report: Allows selecting a date range to search for invoices. The report
 
 Conclusion
 
-The above instructions provide an overview of the project and how to set it up in a local environment. If you encounter any issues during setup or while running the project, please refer to the assumptions made and ensure that your local environment meets the requirements. Additionally, feel free to explore and modify the project to suit your specific needs. Happy coding!
+The above instructions provide an overview of the project and how to set it up in a local environment. If you encounter any issues during setup or while running the project, please refer to the assumptions made and ensure that your local environment meets the requirements. Additionally, feel free to explore and modify the project to suit your specific needs. 
