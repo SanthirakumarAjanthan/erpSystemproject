@@ -1,0 +1,80 @@
+/* General Styles */
+body {
+    background-color: #f8f9fa; /* Light background color */
+    font-family: Arial, sans-serif; /* Font style */
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    padding: 10px 0;
+}
+
+header h1 {
+    text-align: center;
+}
+
+/* Container Styles */
+.container {
+    margin-top: 20px; /* Space above container */
+}
+
+/* Form Styles */
+.form-label {
+    font-weight: bold; /* Make form labels bold */
+}
+
+.form-control {
+    border-radius: 0.25rem; /* Bootstrap rounded corners */
+}
+
+/* Table Styles */
+table {
+    width: 100%; /* Full width */
+    margin-bottom: 1rem; /* Space below the table */
+    color: #212529; /* Text color */
+}
+
+th {
+    background-color: #007bff; /* Bootstrap primary color for headers */
+    color: white; /* White text color */
+}
+
+td, th {
+    padding: 0.75rem; /* Padding in table cells */
+    vertical-align: top; /* Align text to the top */
+    border-top: 1px solid #dee2e6; /* Border above cells */
+}
+
+/* Button Styles */
+.btn {
+    border-radius: 0.35rem; /* Rounded buttons */
+    width: 10px;
+    height: 10px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #007bff; /* Same primary color for consistency */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative; /* Positioning for footer */
+    bottom: 0;
+    width: 100%; /* Full width */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    /* Adjust styles for smaller screens */
+    header h1 {
+        font-size: 24px; /* Smaller header font size */
+    }
+
+    .container {
+        padding: 0 10px; /* Padding on smaller screens */
+    }
+}
